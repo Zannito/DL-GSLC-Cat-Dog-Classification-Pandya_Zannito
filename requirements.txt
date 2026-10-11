@@ -1,0 +1,10 @@
+```txt
+torch
+torchvision
+pandas
+numpy
+matplotlib
+scikit-learn
+Pillow
+jupyter
+```
