@@ -1,0 +1,11 @@
+image_path,actual_class,predicted_class,confidence
+data\oxford-iiit-pet\images\Bombay_2.jpg,Bombay,Abyssinian,0.5128
+data\oxford-iiit-pet\images\Bengal_84.jpg,Bengal,Abyssinian,0.6587
+data\oxford-iiit-pet\images\British_Shorthair_258.jpg,British_Shorthair,Bombay,0.9704
+data\oxford-iiit-pet\images\British_Shorthair_230.jpg,British_Shorthair,Bombay,0.4108
+data\oxford-iiit-pet\images\Bombay_80.jpg,Bombay,chihuahua,0.5153
+data\oxford-iiit-pet\images\Abyssinian_8.jpg,Abyssinian,British_Shorthair,0.5659
+data\oxford-iiit-pet\images\Abyssinian_221.jpg,Abyssinian,Bengal,0.6234
+data\oxford-iiit-pet\images\pug_190.jpg,pug,Bombay,0.5799
+data\oxford-iiit-pet\images\Bengal_143.jpg,Bengal,Abyssinian,0.7543
+data\oxford-iiit-pet\images\japanese_chin_133.jpg,japanese_chin,beagle,0.5137
